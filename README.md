@@ -1,2 +1,2 @@
 # employee_springboot_angular
-The same app, but better
+I followed the tutorial from: https://www.youtube.com/watch?v=Gx4iBLKLVHk&t=2974s&ab_channel=Amigoscode
